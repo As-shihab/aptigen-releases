@@ -48,25 +48,7 @@ Updates depend on distribution method:
 * GitHub APK → Manual install
 * Play Store / App Store → Automatic updates
 
----
 
-## 🧩 Versioning
-
-Aptigen follows semantic versioning:
-
-```
-vMAJOR.MINOR.PATCH
-```
-
-Example:
-
-```
-v1.2.0
-```
-
-Each release may include assets for multiple platforms under the same version tag.
-
----
 
 ## ⚠️ Security Notice
 
