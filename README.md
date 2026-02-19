@@ -3,10 +3,6 @@
 Welcome to the **official Aptigen Release Repository**.
 This repository contains **production-ready builds** of Aptigen across multiple platforms, including Desktop and Mobile.
 
-> 🔒 Source code is maintained in a private development repository.
-> This repository is used only for distributing verified release binaries.
-
----
 
 ## 📦 Available Platforms
 
