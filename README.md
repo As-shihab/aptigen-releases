@@ -30,7 +30,7 @@ For production use, mobile users should install Aptigen from the official app st
 2. Select the latest version.
 3. Download the file matching your platform.
 
-👉 https://github.com/aptigen/aptigen-release/releases
+👉 [https://github.com/aptigen/aptigen-release/releases](https://github.com/As-shihab/aptigen-releases)
 
 ---
 
