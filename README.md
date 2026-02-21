@@ -1,8 +1,9 @@
 # 🚀 Aptigen Releases
 
 Welcome to the **official Aptigen Release Repository**.
-This repository contains **production-ready builds** of Aptigen across multiple platforms, including Desktop and Mobile.
+This repository contains **production-ready builds** of Aptigen across multiple platforms, including **Desktop** and **Mobile**.
 
+---
 
 ## 📦 Available Platforms
 
@@ -18,57 +19,64 @@ Desktop builds support **auto-update** using GitHub Releases.
 
 * Android APK (`.apk`)
 * Android App Bundle (`.aab`)
-* iOS builds (coming soon)
+* iOS builds *(coming soon)*
 
-For production use, mobile users should install Aptigen from the official app stores when available.
+> ⚡ For production use, mobile users should install Aptigen from the official app stores when available.
 
 ---
 
 ## ⬇️ Downloading
 
-1. Go to the **Releases** section of this repository.
-2. Select the latest version.
-3. Download the file matching your platform.
+### 🔹 Official Releases
 
-👉 [https://github.com/aptigen/aptigen-release/releases](https://github.com/As-shihab/aptigen-releases)
+1. Go to the **Releases** section of this repository
+2. Select the latest version
+3. Download the file matching your platform
+
+👉 https://github.com/As-shihab/aptigen-releases
+
+### 🔹 Request ERP Access / Web Version
+
+If you want to access the ERP platform or request a deployment:
+
+👉 https://aptigen.net/erp
 
 ---
 
 ## 🔄 Updates
 
-### Desktop
+### 🖥️ Desktop
 
 Aptigen Desktop automatically checks for updates using GitHub Releases.
 When a new version is published, you will receive an update notification.
 
-### Mobile
+### 📱 Mobile
 
-Updates depend on distribution method:
+Update behavior depends on distribution method:
 
 * GitHub APK → Manual install
 * Play Store / App Store → Automatic updates
 
-
+---
 
 ## ⚠️ Security Notice
 
-* Only download binaries from official Aptigen repositories.
+* Only download binaries from **official Aptigen repositories**.
 * Never install modified or third-party builds.
-* Verify the publisher before installing.
+* Always verify the publisher before installing.
 
 ---
 
 ## 🌐 About Aptigen
 
-Aptigen is a modular enterprise platform designed for:
+**Aptigen** is a modular enterprise platform designed for:
 
 * ERP & Business Automation
 * Industry Management Systems
 * Multi-tenant Cloud + Offline Sync
 * AI-Driven Workflows
 
-Learn more:
-👉 https://aptigen.net
+Learn more: 👉 https://aptigen.net
 
 ---
 
