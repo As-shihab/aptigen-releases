@@ -33,13 +33,10 @@ Desktop builds support **auto-update** using GitHub Releases.
 2. Select the latest version
 3. Download the file matching your platform
 
-👉 https://github.com/As-shihab/aptigen-releases
+👉 https://aptigen.net/erp
 
 ### 🔹 Request ERP Access / Web Version
 
-If you want to access the ERP platform or request a deployment:
-
-👉 https://aptigen.net/erp
 
 ---
 
