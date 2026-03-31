@@ -1,89 +1,54 @@
 # 🚀 Aptigen Releases
 
-Welcome to the **official Aptigen Release Repository**.
-This repository contains **production-ready builds** of Aptigen across multiple platforms, including **Desktop** and **Mobile**.
+> ⚡ Official builds of **Aptigen** — fast, modular, powerful.
 
 ---
 
-## 📦 Available Platforms
+## 📦 Platforms
 
-### 🖥️ Desktop (Electron)
-
-* Windows Installer (`.exe`)
-* macOS (`.dmg`)
-* Linux (`.AppImage` / `.deb`)
-
-Desktop builds support **auto-update** using GitHub Releases.
+### 🖥️ Desktop
+- Windows (.exe)
+- macOS (.dmg)
+- Linux (.AppImage / .deb)
 
 ### 📱 Mobile
-
-* Android APK (`.apk`)
-* Android App Bundle (`.aab`)
-* iOS builds *(coming soon)*
-
-> ⚡ For production use, mobile users should install Aptigen from the official app stores when available.
+- Android (.apk / .aab)
+- iOS *(coming soon)*
 
 ---
 
-## ⬇️ Downloading
+## ⬇️ Get It Now
 
-### 🔹 Official Releases
-
-1. Go to the **Releases** section of this repository
-2. Select the latest version
-3. Download the file matching your platform
-
-👉 https://aptigen.net/erp
-
-### 🔹 Request ERP Access / Web Version
-
+🌐 **Download latest version:**  
+👉 https://aptigen.net/erp  
 
 ---
 
 ## 🔄 Updates
 
-### 🖥️ Desktop
-
-Aptigen Desktop automatically checks for updates using GitHub Releases.
-When a new version is published, you will receive an update notification.
-
-### 📱 Mobile
-
-Update behavior depends on distribution method:
-
-* GitHub APK → Manual install
-* Play Store / App Store → Automatic updates
+- 🖥️ Desktop → ✅ Auto updates  
+- 📱 Mobile → 🔁 Manual / Store-based  
 
 ---
 
-## ⚠️ Security Notice
+## 🔐 Stay Safe
 
-* Only download binaries from **official Aptigen repositories**.
-* Never install modified or third-party builds.
-* Always verify the publisher before installing.
+- ⚠️ Only install from **official sources**
+- 🚫 Do not use modified builds
 
 ---
 
-## 🌐 About Aptigen
+## 🌐 What is Aptigen?
 
-**Aptigen** is a modular enterprise platform designed for:
+- 💼 ERP & Business Automation  
+- 🏭 Industry Management Systems  
+- ☁️ Cloud + Offline Sync  
+- 🤖 AI-powered workflows  
 
-* ERP & Business Automation
-* Industry Management Systems
-* Multi-tenant Cloud + Offline Sync
-* AI-Driven Workflows
-
-Learn more: 👉 https://aptigen.net
+👉 https://aptigen.net  
 
 ---
 
 ## ❤️ Support
 
-If you encounter issues with a release:
-
-* Open an issue in the main Aptigen repository
-* Or contact support via the official website
-
----
-
-**© Aptigen — Enterprise Software Platform**
+💬 Report issues or contact via the official website  
