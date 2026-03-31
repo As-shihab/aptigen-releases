@@ -1,55 +1,28 @@
-# 🚀 Aptigen Releases
+Aptigen Releases
+================
 
-> ⚡ Official builds of **Aptigen** — fast, modular, powerful.
+Download
+--------
 
----
-
-## 📦 Platforms
-
-### 🖥️ Desktop
+Desktop
+~~~~~~~
 - Windows (.exe)
 - macOS (.dmg)
 - Linux (.AppImage / .deb)
 
-### 📱 Mobile
+Mobile
+~~~~~~
 - Android (.apk / .aab)
-- iOS *(coming soon)*
+- iOS (coming soon)
 
----
+👉 https://aptigen.net/erp
 
-## ⬇️ Get It Now
+--------------------------------------------------
 
-🌐 **Download latest version:**  
-👉 https://aptigen.net/privilege/erp
+Features
+--------
 
-
----
-
-## 🔄 Updates
-
-- 🖥️ Desktop → ✅ Auto updates  
-- 📱 Mobile → 🔁 Manual / Store-based  
-
----
-
-## 🔐 Stay Safe
-
-- ⚠️ Only install from **official sources**
-- 🚫 Do not use modified builds
-
----
-
-## 🌐 What is Aptigen?
-
-- 💼 ERP & Business Automation  
-- 🏭 Industry Management Systems  
-- ☁️ Cloud + Offline Sync  
-- 🤖 AI-powered workflows  
-
-👉 https://aptigen.net  
-
----
-
-## ❤️ Support
-
-💬 Report issues or contact via the official website  
+- ERP & Business Automation  
+- Industry Management Systems  
+- Cloud + Offline Sync  
+- AI-powered workflows  
