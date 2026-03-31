@@ -15,7 +15,7 @@ Mobile
 - Android (.apk / .aab)
 - iOS (coming soon)
 
-👉 https://aptigen.net/erp
+👉 https://aptigen.net/privilege/erp
 
 --------------------------------------------------
 
