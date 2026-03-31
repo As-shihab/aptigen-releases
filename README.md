@@ -20,7 +20,7 @@
 ## ⬇️ Get It Now
 
 🌐 **Download latest version:**  
-👉 https://aptigen.net/erp  
+👉 https://aptigen.net/privliage
 
 ---
 
