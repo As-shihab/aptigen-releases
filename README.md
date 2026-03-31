@@ -17,7 +17,7 @@ Download
 
 
 ### Live
-- [Live :)](https://erp.aptigen.net)
+- [Live : erp.aptigen.net](https://erp.aptigen.net)
 - iOS (coming soon)
 
 --------------------------------------------------
